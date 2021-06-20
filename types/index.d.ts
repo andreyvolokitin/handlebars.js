@@ -413,7 +413,7 @@ declare namespace hbs {
   }
 }
 
-declare module "handlebars" {
+declare module "@andreyvolokitin/handlebars.js" {
   export = Handlebars;
 }
 
